@@ -1,6 +1,6 @@
 # Hoe to play the game
 
-#play button
+# play button
 
 left: A 
 Right: D
