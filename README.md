@@ -1,4 +1,4 @@
-# Hoe to play the game
+# How to play the game
 
 # play button
 
